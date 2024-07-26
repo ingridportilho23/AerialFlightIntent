@@ -1,0 +1,15 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Taxiando_25.mp4,27403.0,1,4.0,airplane,0.296630859375,1120.0,589.5,36.0,16.5
+Airplane_Taxiando_25.mp4,27404.0,1,4.0,airplane,0.29736328125,1120.0,589.5,36.0,16.5
+Airplane_Taxiando_25.mp4,27405.0,1,4.0,airplane,0.30908203125,1120.0,589.5,36.0,16.5
+Airplane_Taxiando_25.mp4,27406.0,1,4.0,airplane,0.2998046875,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27407.0,1,4.0,airplane,0.301513671875,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27408.0,1,4.0,airplane,0.30859375,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27409.0,1,4.0,airplane,0.2880859375,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27410.0,1,4.0,airplane,0.294677734375,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27411.0,1,4.0,airplane,0.294677734375,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27412.0,1,4.0,airplane,0.29736328125,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27413.0,1,4.0,airplane,0.27587890625,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27414.0,1,4.0,airplane,0.259765625,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27415.0,1,4.0,airplane,0.25634765625,1120.0,590.0,36.0,16.0
+Airplane_Taxiando_25.mp4,27416.0,1,4.0,airplane,0.26025390625,1120.0,590.0,36.0,16.0

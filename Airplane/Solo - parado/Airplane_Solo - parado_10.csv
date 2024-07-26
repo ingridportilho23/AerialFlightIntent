@@ -1,0 +1,4 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Solo - parado_10.mp4,8233.0,1,4.0,airplane,0.29345703125,399.5,362.75,128.0,84.0
+Airplane_Solo - parado_10.mp4,8315.0,1,4.0,airplane,0.322998046875,397.0,364.25,129.5,83.25
+Airplane_Solo - parado_10.mp4,8318.0,1,4.0,airplane,0.2724609375,395.0,363.5,133.0,71.75

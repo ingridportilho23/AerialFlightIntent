@@ -1,0 +1,2 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Decolando_20.mp4,16503.0,1,4.0,airplane,0.252685546875,249.625,218.875,22.875,14.375

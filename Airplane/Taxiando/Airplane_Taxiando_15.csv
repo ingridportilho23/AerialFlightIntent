@@ -1,0 +1,3 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Taxiando_15.mp4,36944.0,1,4.0,airplane,0.2685546875,18.5625,524.5,113.6875,38.5
+Airplane_Taxiando_15.mp4,36946.0,1,4.0,airplane,0.25732421875,18.9375,536.5,70.1875,25.5

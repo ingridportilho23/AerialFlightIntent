@@ -1,0 +1,5 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Decolando_19.mp4,16117.0,1,4.0,airplane,0.259765625,221.625,438.25,66.125,17.25
+Airplane_Decolando_19.mp4,16120.0,1,4.0,airplane,0.34765625,221.5,435.25,66.5,18.5
+Airplane_Decolando_19.mp4,16121.0,1,4.0,airplane,0.33544921875,221.375,435.25,66.625,18.75
+Airplane_Decolando_19.mp4,16167.0,1,4.0,airplane,0.322509765625,220.375,406.5,68.125,22.5
