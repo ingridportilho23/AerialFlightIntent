@@ -1,0 +1,21 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Não classificados_214.mp4,5190.0,1,4.0,airplane,0.414306640625,1287.0,230.375,22.0,13.25
+Airplane_Não classificados_214.mp4,5191.0,1,4.0,airplane,0.39990234375,1287.0,230.375,22.0,13.375
+Airplane_Não classificados_214.mp4,5201.0,3,4.0,airplane,0.260986328125,1189.0,241.0,27.0,14.375
+Airplane_Não classificados_214.mp4,5205.0,1,4.0,airplane,0.285400390625,1157.0,252.375,22.0,9.375
+Airplane_Não classificados_214.mp4,5217.0,1,4.0,airplane,0.263671875,1040.0,264.0,23.0,13.75
+Airplane_Não classificados_214.mp4,5219.0,2,4.0,airplane,0.26513671875,1019.0,267.25,22.0,12.0
+Airplane_Não classificados_214.mp4,5220.0,1,4.0,airplane,0.337646484375,1004.5,270.0,22.5,12.0
+Airplane_Não classificados_214.mp4,5221.0,1,4.0,airplane,0.34423828125,1004.5,269.75,22.5,12.25
+Airplane_Não classificados_214.mp4,5222.0,1,4.0,airplane,0.367431640625,993.5,270.0,22.0,12.0
+Airplane_Não classificados_214.mp4,5224.0,3,4.0,airplane,0.25048828125,965.5,272.75,24.0,17.25
+Airplane_Não classificados_214.mp4,5225.0,1,4.0,airplane,0.304931640625,955.0,274.75,20.5,12.75
+Airplane_Não classificados_214.mp4,5226.0,1,4.0,airplane,0.31103515625,955.0,275.0,20.5,12.5
+Airplane_Não classificados_214.mp4,5235.0,2,4.0,airplane,0.258056640625,852.0,285.75,21.0,11.75
+Airplane_Não classificados_214.mp4,5248.0,1,4.0,airplane,0.34326171875,700.0,301.5,22.0,10.0
+Airplane_Não classificados_214.mp4,5255.0,1,4.0,airplane,0.273193359375,617.0,309.0,20.5,10.75
+Airplane_Não classificados_214.mp4,5262.0,2,4.0,airplane,0.296142578125,528.5,317.0,22.0,12.25
+Airplane_Não classificados_214.mp4,5263.0,2,4.0,airplane,0.286865234375,529.0,317.0,21.5,12.25
+Airplane_Não classificados_214.mp4,5287.0,1,4.0,airplane,0.30908203125,223.375,325.25,23.25,16.75
+Airplane_Não classificados_214.mp4,5288.0,1,4.0,airplane,0.294189453125,223.375,325.25,23.25,16.75
+Airplane_Não classificados_214.mp4,5303.0,1,4.0,airplane,0.351318359375,40.8125,320.25,23.75,16.75

@@ -1,0 +1,18 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Solo - parado_9.mp4,7879.0,3,4.0,airplane,0.328857421875,399.0,364.75,130.0,68.0
+Airplane_Solo - parado_9.mp4,7885.0,2,4.0,airplane,0.282470703125,398.25,363.25,130.75,69.25
+Airplane_Solo - parado_9.mp4,7887.0,3,4.0,airplane,0.25732421875,399.0,364.0,130.5,70.75
+Airplane_Solo - parado_9.mp4,7888.0,1,4.0,airplane,0.355712890625,400.0,364.5,128.5,72.25
+Airplane_Solo - parado_9.mp4,7889.0,1,4.0,airplane,0.415771484375,399.75,364.75,129.25,80.5
+Airplane_Solo - parado_9.mp4,7890.0,1,4.0,airplane,0.302001953125,399.5,363.25,128.5,75.0
+Airplane_Solo - parado_9.mp4,7891.0,1,4.0,airplane,0.2890625,399.25,363.5,129.75,71.75
+Airplane_Solo - parado_9.mp4,7894.0,1,4.0,airplane,0.294189453125,400.25,366.25,126.75,81.0
+Airplane_Solo - parado_9.mp4,7901.0,2,4.0,airplane,0.2646484375,399.0,372.0,129.5,68.0
+Airplane_Solo - parado_9.mp4,7905.0,2,4.0,airplane,0.28662109375,399.75,364.25,139.25,78.5
+Airplane_Solo - parado_9.mp4,7957.0,1,4.0,airplane,0.309814453125,399.25,366.0,128.25,67.5
+Airplane_Solo - parado_9.mp4,7958.0,2,4.0,airplane,0.25390625,400.0,379.75,127.5,53.0
+Airplane_Solo - parado_9.mp4,7959.0,1,4.0,airplane,0.251220703125,399.5,364.5,129.0,69.25
+Airplane_Solo - parado_9.mp4,7960.0,1,4.0,airplane,0.25732421875,400.5,364.5,127.5,69.0
+Airplane_Solo - parado_9.mp4,7983.0,1,4.0,airplane,0.269775390625,400.25,364.25,127.25,67.75
+Airplane_Solo - parado_9.mp4,8019.0,2,4.0,airplane,0.257568359375,397.25,365.0,130.25,66.75
+Airplane_Solo - parado_9.mp4,8026.0,1,4.0,airplane,0.2705078125,396.0,362.5,130.0,70.5

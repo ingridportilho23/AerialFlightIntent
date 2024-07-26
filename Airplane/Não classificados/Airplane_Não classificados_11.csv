@@ -1,0 +1,8 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Não classificados_11.mp4,31802.0,1,4.0,airplane,0.2890625,118.9375,511.0,50.5625,17.5
+Airplane_Não classificados_11.mp4,31803.0,1,4.0,airplane,0.260986328125,119.0,511.0,50.5,17.5
+Airplane_Não classificados_11.mp4,31804.0,1,4.0,airplane,0.25830078125,118.9375,511.0,50.5625,17.5
+Airplane_Não classificados_11.mp4,31983.0,1,4.0,airplane,0.28173828125,118.9375,511.25,50.5625,16.75
+Airplane_Não classificados_11.mp4,31984.0,1,4.0,airplane,0.254638671875,119.0,510.75,50.5,17.25
+Airplane_Não classificados_11.mp4,32077.0,1,4.0,airplane,0.25634765625,118.625,511.25,50.75,17.25
+Airplane_Não classificados_11.mp4,32078.0,1,4.0,airplane,0.25390625,118.75,511.25,50.5,16.75

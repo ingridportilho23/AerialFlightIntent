@@ -1,0 +1,4 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Não classificados_138.mp4,48348.0,1,4.0,airplane,0.251220703125,244.875,460.75,63.125,18.0
+Airplane_Não classificados_138.mp4,48349.0,1,4.0,airplane,0.2509765625,244.875,460.75,63.125,18.0
+Airplane_Não classificados_138.mp4,48350.0,1,4.0,airplane,0.250244140625,244.875,460.75,63.125,18.0

@@ -1,0 +1,5 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Voando - tráss_3.mp4,8368.0,1,4.0,airplane,0.2841796875,563.5,237.375,105.0,29.375
+Airplane_Voando - tráss_3.mp4,8382.0,2,4.0,airplane,0.29052734375,582.0,241.75,89.0,27.75
+Airplane_Voando - tráss_3.mp4,8384.0,2,4.0,airplane,0.276611328125,583.0,241.0,89.0,29.25
+Airplane_Voando - tráss_3.mp4,8386.0,1,4.0,airplane,0.29833984375,584.0,240.875,89.0,30.375

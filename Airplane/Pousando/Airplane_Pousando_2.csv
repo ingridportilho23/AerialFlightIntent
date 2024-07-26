@@ -1,0 +1,16 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Pousando_2.mp4,577.0,1,4.0,airplane,0.274658203125,814.0,495.75,47.0,11.75
+Airplane_Pousando_2.mp4,578.0,1,4.0,airplane,0.2568359375,814.0,496.25,47.0,11.25
+Airplane_Pousando_2.mp4,588.0,1,4.0,airplane,0.25732421875,816.0,496.5,47.0,12.0
+Airplane_Pousando_2.mp4,589.0,1,4.0,airplane,0.30810546875,816.0,496.25,47.5,12.25
+Airplane_Pousando_2.mp4,590.0,1,4.0,airplane,0.356689453125,816.0,496.0,47.5,12.5
+Airplane_Pousando_2.mp4,591.0,1,4.0,airplane,0.343017578125,816.0,495.75,47.5,12.75
+Airplane_Pousando_2.mp4,592.0,1,4.0,airplane,0.368408203125,816.0,495.5,47.5,13.25
+Airplane_Pousando_2.mp4,593.0,1,4.0,airplane,0.36474609375,816.0,496.25,48.0,13.0
+Airplane_Pousando_2.mp4,594.0,1,4.0,airplane,0.37060546875,815.5,496.0,48.5,13.25
+Airplane_Pousando_2.mp4,595.0,1,4.0,airplane,0.402587890625,816.0,496.5,48.0,12.75
+Airplane_Pousando_2.mp4,596.0,1,4.0,airplane,0.3798828125,816.0,497.0,48.0,12.25
+Airplane_Pousando_2.mp4,597.0,1,4.0,airplane,0.389892578125,816.0,497.0,48.0,12.25
+Airplane_Pousando_2.mp4,598.0,1,4.0,airplane,0.42626953125,816.0,495.75,48.5,13.75
+Airplane_Pousando_2.mp4,599.0,1,4.0,airplane,0.449462890625,816.0,495.75,48.5,13.75
+Airplane_Pousando_2.mp4,600.0,1,4.0,airplane,0.406005859375,817.0,490.25,48.0,19.0

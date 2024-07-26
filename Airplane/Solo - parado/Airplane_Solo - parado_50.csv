@@ -1,0 +1,7 @@
+Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
+Airplane_Solo - parado_50.mp4,11534.0,1,4.0,airplane,0.3203125,903.5,395.75,87.0,28.0
+Airplane_Solo - parado_50.mp4,11535.0,1,4.0,airplane,0.3720703125,906.5,395.5,84.5,29.5
+Airplane_Solo - parado_50.mp4,11545.0,1,4.0,airplane,0.266357421875,898.0,395.5,85.5,26.0
+Airplane_Solo - parado_50.mp4,11640.0,1,4.0,airplane,0.28857421875,910.0,395.0,88.0,27.0
+Airplane_Solo - parado_50.mp4,11651.0,1,4.0,airplane,0.260986328125,908.5,377.5,88.0,44.75
+Airplane_Solo - parado_50.mp4,11671.0,1,4.0,airplane,0.27001953125,906.0,394.5,69.5,27.5
