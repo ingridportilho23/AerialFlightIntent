@@ -1,6 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-Airplane_Pousando_19.mp4,14794.0,1,4.0,airplane,0.289306640625,313.5,129.5,137.25,38.375
-Airplane_Pousando_19.mp4,14805.0,1,4.0,airplane,0.281494140625,315.75,136.5,138.0,35.625
-Airplane_Pousando_19.mp4,14937.0,1,4.0,airplane,0.32470703125,325.5,175.5,177.0,39.25
-Airplane_Pousando_19.mp4,14938.0,1,4.0,airplane,0.306884765625,325.75,175.5,177.0,40.0
-Airplane_Pousando_19.mp4,14991.0,1,4.0,airplane,0.260498046875,350.5,193.375,162.0,39.75

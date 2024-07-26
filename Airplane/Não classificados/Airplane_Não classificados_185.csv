@@ -1,4 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-Airplane_Não classificados_185.mp4,36806.0,2,4.0,airplane,0.259033203125,27.5625,267.75,27.25,18.0
-Airplane_Não classificados_185.mp4,36811.0,1,4.0,airplane,0.345947265625,31.4375,287.25,28.0,15.75
-Airplane_Não classificados_185.mp4,36816.0,2,4.0,airplane,0.267333984375,28.53125,308.25,26.25,13.5

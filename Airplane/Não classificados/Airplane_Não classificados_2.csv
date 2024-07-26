@@ -1,6 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-Airplane_Não classificados_2.mp4,8133.0,1,4.0,airplane,0.273193359375,302.0,0.037109375,97.75,11.025390625
-Airplane_Não classificados_2.mp4,8134.0,1,4.0,airplane,0.250244140625,301.25,0.033203125,101.25,10.669921875
-Airplane_Não classificados_2.mp4,8136.0,1,4.0,airplane,0.263671875,302.0,0.052734375,101.25,10.650390625
-Airplane_Não classificados_2.mp4,8160.0,1,4.0,airplane,0.250244140625,302.0,0.03515625,99.25,9.31640625
-Airplane_Não classificados_2.mp4,8169.0,1,4.0,airplane,0.25341796875,302.25,0.03515625,99.0,9.38671875

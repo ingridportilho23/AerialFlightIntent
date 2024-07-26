@@ -1,3 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-Airplane_Pousando_15.mp4,41445.0,1,4.0,airplane,0.254150390625,258.25,124.9375,66.0,19.8125
-Airplane_Pousando_15.mp4,41632.0,1,4.0,airplane,0.333740234375,211.0,146.5,248.75,109.25

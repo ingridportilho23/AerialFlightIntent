@@ -1,3 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-guarulhos (62).mp4,19816.0,1,4.0,airplane,0.25390625,0.017578125,281.0,19.482421875,14.0
-guarulhos (62).mp4,19822.0,1,4.0,airplane,0.284912109375,1248.0,591.0,52.0,18.0
