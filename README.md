@@ -95,9 +95,6 @@ Devido às limitações de tamanho no GitHub, o dataset completo está hospedado
 
 [Dataset no Google Drive](https://drive.google.com/drive/folders/1GaRwxxbPL4ONjsm4-nR4mevs-GzTxVwB?usp=sharing)
 
-
-3. **Utilize os vídeos e os arquivos CSV para treinar e avaliar seus algoritmos de aprendizado de máquina.**
-
 ## Referência
 
 Se utilizar este dataset em sua pesquisa, por favor cite este repositório:
