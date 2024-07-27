@@ -32,6 +32,16 @@ Os vídeos foram anotados para incluir os seguintes metadados essenciais:
 
 Os metadados são armazenados no arquivo `metadata.csv` no diretório base do dataset.
 
+## Arquivo gera_csv.py
+
+Um script chamado `gera_csv.py` foi utilizado para:
+
+1. Renomear os vídeos e seus arquivos CSV correspondentes seguindo um padrão específico.
+2. Extrair os metadados essenciais e armazená-los no arquivo `metadata.csv`.
+   
+O script `gera_csv.py` está disponível no repositório, localizado na pasta raiz.
+
+
 ### Arquivos CSV de Detecção de Objetos
 
 Cada vídeo passou por uma rede de detecção de objetos que gerou arquivos CSV contendo:
@@ -79,19 +89,12 @@ Cada vídeo passou por uma rede de detecção de objetos que gerou arquivos CSV 
 | Pousando           | -      | 54     | 14           | 68    |
 | Decolando          | -      | 28     | 29           | 57    |
 
-## Como Utilizar
+## Disponibilização do Dataset
 
-1. **Clone o repositório:**
+Devido às limitações de tamanho no GitHub, o dataset completo está hospedado no Google Drive. Você pode acessar e baixar o dataset através do link abaixo:
 
-    ```bash
-    git clone https://github.com/ingridportilho23/AerialFlightIntent.git
-    ```
+[Dataset no Google Drive](https://drive.google.com/drive/folders/1GaRwxxbPL4ONjsm4-nR4mevs-GzTxVwB?usp=sharing)
 
-2. **Acesse o diretório do dataset:**
-
-    ```bash
-    cd AerialFlightIntent
-    ```
 
 3. **Utilize os vídeos e os arquivos CSV para treinar e avaliar seus algoritmos de aprendizado de máquina.**
 
@@ -106,10 +109,21 @@ year = {2024},
 url = {https://github.com/ingridportilho23/AerialFlightIntent}
 }
 
+## Autores
+
+- Ingrid Portilho
+- Sanderson de Oliveira Macedo
+
+---
+
+Este dataset foi desenvolvido para facilitar o avanço das pesquisas na área de classificação de intenções de voo, promovendo a colaboração e o desenvolvimento de algoritmos mais precisos e eficientes.
+
+---
 
 ## Licença
 
 Este dataset é disponibilizado sob a licença [MIT](LICENSE).
+
 
 
 
