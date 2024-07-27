@@ -114,15 +114,16 @@ url = {https://github.com/ingridportilho23/AerialFlightIntent}
 - Ingrid Portilho
 - Sanderson de Oliveira Macedo
 
+
+## Licença
+
+Este dataset é disponibilizado sob a licença [MIT](LICENSE).
+
 ---
 
 Este dataset foi desenvolvido para facilitar o avanço das pesquisas na área de classificação de intenções de voo, promovendo a colaboração e o desenvolvimento de algoritmos mais precisos e eficientes.
 
 ---
-
-## Licença
-
-Este dataset é disponibilizado sob a licença [MIT](LICENSE).
 
 
 
