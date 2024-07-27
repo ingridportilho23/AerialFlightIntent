@@ -8,19 +8,6 @@ Este dataset contém vídeos classificados de aviões, drones e helicópteros, c
 
 O dataset está organizado em diferentes classes, onde cada classe corresponde a um tipo específico de movimento ou estado dos agentes aéreos (aviões, drones e helicópteros). Cada classe tem sua própria pasta, que contém os vídeos associados a essa classe. Os arquivos de vídeo e seus respectivos arquivos CSV são nomeados seguindo um padrão específico para facilitar a identificação e a organização.
 
-### Organização dos Diretórios
-
-- **avioes/**: Contém vídeos de aviões.
-  - **Subindo/**: Contém vídeos e arquivos CSV de aviões subindo.
-  - **Descendo/**: Contém vídeos e arquivos CSV de aviões descendo.
-  - **Outras classes**: Pastas adicionais para cada classe de movimento ou estado.
-- **drones/**: Contém vídeos de drones.
-  - **Voando/**: Contém vídeos e arquivos CSV de drones voando.
-  - **Outras classes**: Pastas adicionais para cada classe de movimento ou estado.
-- **helicopteros/**: Contém vídeos de helicópteros.
-  - **Pairando/**: Contém vídeos e arquivos CSV de helicópteros pairando.
-  - **Outras classes**: Pastas adicionais para cada classe de movimento ou estado.
-
 ### Padrões de Nomeação
 
 Os arquivos de vídeo e seus respectivos arquivos CSV seguem o padrão:
