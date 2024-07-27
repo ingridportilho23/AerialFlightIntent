@@ -1,7 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-Airplane_Taxiando_18.mp4,23043.0,1,4.0,airplane,0.294677734375,765.5,436.5,22.0,12.75
-Airplane_Taxiando_18.mp4,23062.0,2,4.0,airplane,0.265869140625,767.5,478.0,14.0,19.5
-Airplane_Taxiando_18.mp4,23071.0,1,4.0,airplane,0.2568359375,1008.5,590.5,48.5,16.0
-Airplane_Taxiando_18.mp4,23083.0,1,4.0,airplane,0.28466796875,1002.5,590.5,46.5,15.5
-Airplane_Taxiando_18.mp4,23084.0,1,4.0,airplane,0.27587890625,1002.5,590.5,46.5,15.5
-Airplane_Taxiando_18.mp4,23085.0,1,4.0,airplane,0.267333984375,1001.5,590.0,47.5,16.0

@@ -1,8 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-guarulhos (62).mp4,6038.0,1,4.0,airplane,0.2685546875,1135.0,588.0,106.0,18.0
-guarulhos (62).mp4,6039.0,1,4.0,airplane,0.285888671875,1135.0,588.0,105.0,18.0
-guarulhos (62).mp4,6044.0,1,4.0,airplane,0.26708984375,1136.0,588.0,104.0,18.0
-guarulhos (62).mp4,6276.0,1,4.0,airplane,0.350830078125,992.0,511.75,22.5,17.75
-guarulhos (62).mp4,6284.0,1,4.0,airplane,0.39697265625,949.0,501.5,18.0,13.0
-guarulhos (62).mp4,6285.0,1,4.0,airplane,0.390869140625,949.0,501.5,18.0,13.0
-guarulhos (62).mp4,6287.0,1,4.0,airplane,0.30322265625,931.5,496.5,20.0,16.0

@@ -1,4 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-Airplane_Solo - parado_49.mp4,10510.0,1,4.0,airplane,0.41064453125,902.0,396.25,82.5,28.5
-Airplane_Solo - parado_49.mp4,10562.0,1,4.0,airplane,0.2724609375,944.0,396.25,56.0,27.0
-Airplane_Solo - parado_49.mp4,10581.0,1,4.0,airplane,0.25390625,900.5,395.75,78.5,27.75

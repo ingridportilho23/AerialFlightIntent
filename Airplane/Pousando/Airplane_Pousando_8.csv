@@ -1,9 +1,0 @@
-Video Name,Frame ID,Object ID,Class ID,Class Name,Confidence,BoundingBox_X,BoundingBox_Y,BoundingBox_Width,BoundingBox_Height
-Airplane_Pousando_8.mp4,10037.0,1,4.0,airplane,0.251953125,0.078125,534.5,47.734375,24.5
-Airplane_Pousando_8.mp4,10038.0,1,4.0,airplane,0.25732421875,0.0625,534.5,47.90625,25.0
-Airplane_Pousando_8.mp4,10039.0,1,4.0,airplane,0.251953125,0.0625,534.5,47.8125,24.5
-Airplane_Pousando_8.mp4,10044.0,1,4.0,airplane,0.253173828125,0.046875,534.5,47.140625,24.0
-Airplane_Pousando_8.mp4,10045.0,1,4.0,airplane,0.256103515625,0.046875,534.5,47.078125,24.0
-Airplane_Pousando_8.mp4,10088.0,1,4.0,airplane,0.262939453125,0.03125,532.5,45.46875,27.5
-Airplane_Pousando_8.mp4,10089.0,1,4.0,airplane,0.276611328125,-0.015625,533.5,44.859375,26.0
-Airplane_Pousando_8.mp4,10091.0,1,4.0,airplane,0.251220703125,0.03125,532.5,44.84375,27.0
